@@ -1,1 +1,1 @@
-mypsqluser
+dbuser
